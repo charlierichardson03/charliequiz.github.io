@@ -1,0 +1,16 @@
+body {
+  background-color: #F3F455;
+}
+
+h2 {
+  font-size: 30px;
+  color: blue;
+}
+
+h3 {
+  color: red;
+  border: 5px solid black;
+  border-style: dotted;
+  width: 750px;
+  height: 60px;
+}
